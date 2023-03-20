@@ -1,3 +1,5 @@
 feature1
 
 tag: f1.1
+
+tag: f1.2
